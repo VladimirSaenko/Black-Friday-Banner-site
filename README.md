@@ -4,24 +4,24 @@
 
 ![3321](https://user-images.githubusercontent.com/56477695/118873051-f612fa00-b8f1-11eb-8129-7d5f6129c484.png)
 
-## Сайт-баннер с интересной фичей hover'а на js
+### Сайт-баннер с интересной фичей hover'а на js
 
-### Portfolio-2 {
+## Portfolio-2 {
 
-#### https://vladimirsaenko.github.io/Portfolio-2/sites/site-12/BannerBF/index.html
-
-### }
-
-### Codepen {
-
-#### https://codepen.io/vladimirsaenko/pen/XWRXdRp
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-12/BannerBF/index.html
 
 ### }
 
-### Cruella-Banner {
+## Codepen {
 
-#### https://github.com/VladimirSaenko/Cruella-Banner
+### https://codepen.io/vladimirsaenko/pen/XWRXdRp
 
-#### https://vladimirsaenko.github.io/Cruella-Banner/
+### }
+
+## Cruella-Banner {
+
+### https://github.com/VladimirSaenko/Cruella-Banner
+
+### https://vladimirsaenko.github.io/Cruella-Banner/
 
 ### }
