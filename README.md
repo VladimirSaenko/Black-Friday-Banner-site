@@ -24,4 +24,6 @@
 
 ### https://vladimirsaenko.github.io/Cruella-Banner/
 
+### https://codepen.io/vladimirsaenko/pen/YzVwqLJ
+
 ### }
