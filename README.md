@@ -6,7 +6,7 @@
 
 ### Сайт-баннер с интересной фичей hover'а на js
 
-## Portfolio-2 {
+## Portfolio {
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-12/BannerBF/index.html
 
