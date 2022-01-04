@@ -1,4 +1,4 @@
-# Black-Friday-Banner-site-example
+# Black-Friday-Banner-site
 
 ![photo_2021-05-19_22-27-55](https://user-images.githubusercontent.com/56477695/118872957-d380e100-b8f1-11eb-9d14-51e4919f5186.jpg)
 
