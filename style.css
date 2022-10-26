@@ -52,3 +52,9 @@ section img {
     height: 100%;
     object-fit: cover;
 }
+
+@media screen and (min-width: 300px) and (max-width: 800px) {
+    section h2, section h2 span {
+        font-size: 26.5vw;
+    }
+}
